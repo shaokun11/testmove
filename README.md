@@ -6,6 +6,7 @@
 
 To set up the necessary environment, run the following command:
 ```
+chmod +x ./scripts/dev_setup.sh
 ./scripts/dev_setup.sh
 ```
 
